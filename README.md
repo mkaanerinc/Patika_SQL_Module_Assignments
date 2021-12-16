@@ -1,6 +1,6 @@
 # Patika SQL Module Assignments
 
-**Assignments - 01**
+**Assignment - 01**
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
